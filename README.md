@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Kasthuri Raja M**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/kasthuri-raja-m/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/KasthuriRaja-M">
